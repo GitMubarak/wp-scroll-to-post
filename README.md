@@ -24,4 +24,5 @@ The ajax call appears each time you scroll down and the content comes one after 
 [See the Demo](http://plugin.hossnimubarak.com/blog/)
 
 **Give us a Feedback/Rating**
+
 Feel free to give us your valuable review and share this plugin with others. This will help us to improve this plugin. Rate us and we are always ready to add any features if you want.
